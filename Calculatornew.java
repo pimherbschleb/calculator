@@ -7,3 +7,4 @@ public class Calculator {
         return b + a    
     }
 }
+//this sentence is a piece of code that's in too much conflict with master
